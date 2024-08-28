@@ -24,7 +24,7 @@
 
  && (AND) checks if both conditions are true.
  || (OR) checks if at least one condition is true.
-  ! (NOT) flips true to false, and false to true.
+  // ! (NOT) flips true to false, and false to true.
 
 */
 
